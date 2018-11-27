@@ -7,13 +7,13 @@ android {
     }
     signingConfigs {
         signing_config {
-            keyAlias 'abc'
-            keyPassword '123'
+            keyAlias 'AyraHikari'
+            keyPassword '081212846390adgjmptw'
         }
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.samplestickerapp"
+        applicationId "me.ayra.warmlady"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
