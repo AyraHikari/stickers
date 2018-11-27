@@ -13,7 +13,7 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "me.ayra.warmlady"
+        applicationId "me.ayra.warmlady2"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
