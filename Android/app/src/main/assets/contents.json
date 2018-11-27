@@ -1,12 +1,12 @@
 {
-  "android_play_store_link": "http://t.me/AyraHikari",
+  "android_play_store_link": "",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "1",
       "name": "Warm Laddy",
       "publisher": "Ayra Hikari",
-      "tray_image_file": "tray_Cuppy.png",
+      "tray_image_file": "Tray_WarmLady.png",
       "publisher_email":"ayrahikari@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
